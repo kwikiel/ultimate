@@ -1,0 +1,11 @@
+templates/index.html|1 col 1 warning| plain text isn't allowed in <head> elements
+templates/index.html|1 col 1 warning| <!DOCTYPE> isn't allowed after elements
+templates/index.html|3 col 1 warning| discarding unexpected <html>
+templates/index.html|1 col 1 warning| <head> isn't allowed in <body> elements
+templates/index.html|1 col 1 warning| <meta> isn't allowed in <body> elements
+templates/index.html|1 col 1 warning| <meta> isn't allowed in <body> elements
+templates/index.html|1 col 1 warning| <title> isn't allowed in <body> elements
+templates/index.html|1 col 1 warning| <link> isn't allowed in <body> elements
+templates/index.html|1 col 1 warning| </head> isn't allowed in <body> elements
+templates/index.html|10 col 5 warning| discarding unexpected <body>
+templates/index.html|8 col 9 warning| <link> escaping malformed URI reference
