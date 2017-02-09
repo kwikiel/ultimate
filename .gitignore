@@ -1,2 +1,5 @@
 *.pyc
 *.pyc
+venv/
+.env
+hellowebapp/hellowebapp/__pycache__/
